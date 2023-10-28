@@ -8,7 +8,10 @@ import java.util.Scanner;
 
 /**
  *
- * @author Axioo NAMA : Asmalik Hudri Prodi : Teknik Informatika NIM : 22205009
+ * @author Axioo 
+ * NAMA : Asmalik Hudri 
+ * Prodi : Teknik Informatika 
+ * NIM : 22205009
  * Deskripsi Program : Program ini berisi program untuk melihat kepribadian
  * seseorang dari warna sesuai ketentuan
  *
